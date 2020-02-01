@@ -1,0 +1,20 @@
+.footer {
+    padding: 20px;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    font-size: x-small;
+    border-top: solid 10px #EEBDC1; 
+}
+
+a {
+   color: #EEBDC1; 
+}
+
+.card{
+    margin-bottom: 30px;
+}
+
+h1 {
+    margin: 20px;
+}
